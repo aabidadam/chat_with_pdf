@@ -1,0 +1,13 @@
+PyPDF2
+sentence-transformers
+qdrant-client
+langchain
+langchain-openai
+groq
+uvicorn[standard]
+fastapi
+python-multipart
+python-dotenv
+pydantic
+langchain-community
+

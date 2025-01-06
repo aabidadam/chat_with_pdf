@@ -48,9 +48,10 @@ To install the ChatwithPDF App, please follow these steps:
    pip install -r requirements.txt
    ```
 
-5. Create a `.env` file in the backend directory and add your groq API key:
+5. Create a `.env` file in the backend directory and add your groq API key and qdrant API key :
    ```
    GROQ_API_KEY=your_secret_api_key
+   QDRANT_API_KEY=your_secret_api_key
    ```
 
 6. Start the FastAPI server:
